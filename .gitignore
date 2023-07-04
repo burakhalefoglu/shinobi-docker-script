@@ -1,0 +1,10 @@
+# Docker volumes
+config/
+database/
+videos/
+customAutoLoad/
+plugins/
+
+# emacs
+*~
+\#*\#

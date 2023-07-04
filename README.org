@@ -1,0 +1,15 @@
+#+title: Simple script to run Shinobi docker/podman
+
+* Overview
+Bash script for [[https://shinobi.video/][Shinobi]] ~docker~ or ~podman~. This script is using ~podman~ if it's installed, or ~docker~.
+
+* Quick usage
+** Pull the git repository
+#+BEGIN_SRC bash
+  git clone https://github.com/kimgnu/shinobi-docker-script.git
+#+END_SRC
+** Run command
+~cd~ to the pulled directory and then run this command.
+#+BEGIN_SRC bash
+  ./docker.sh run
+#+END_SRC
