@@ -13,3 +13,6 @@ Bash script for [[https://shinobi.video/][Shinobi]] ~docker~ or ~podman~. This s
 #+BEGIN_SRC bash
   ./docker.sh run
 #+END_SRC
+Web Address : http://xxx.xxx.xxx.xxx:8080/super
+Username : admin@shinobi.video
+Password : admin
